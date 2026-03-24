@@ -1,8 +1,8 @@
-import json
-import datetime
-import matplotlib.pyplot as plt
+import json #to store data in a file
+import datetime #to get current date
+import matplotlib.pyplot as plt #visual representation of data
 
-FILE_NAME = "expenses.json"
+FILE_NAME = "expenses.json" 
 
 
 # Load expenses from JSON file
@@ -32,7 +32,7 @@ def add_expense(expenses):
         "date": date
     }
 
-    expenses.append(expense)
+    expenses.append(expense) #add expense dict to a list 
     save_expenses(expenses)
 
     print("Expense added successfully!")
@@ -66,7 +66,10 @@ def monthly_report(expenses):
 # Budget check
 def budget_alert(expenses):
     limit = float(input("Enter your monthly budget: "))
-    total = sum(exp["amount"] for exp in expenses)
+    total = 0
+
+    for exp in expenses:
+        total = total + exp["amount"]
 
     if total > limit:
         print("⚠️ Budget exceeded!")
@@ -84,7 +87,7 @@ def show_chart(expenses):
 
     for exp in expenses:
         category = exp["category"]
-        category_totals[category] = category_totals.get(category, 0) + exp["amount"]
+        category_totals[category] = category_totals.get(category, 0) + exp["amount"]#NEW DICT FOR CATEGORY TYPE AND VALUE STORAGE
 
     labels = category_totals.keys()
     values = category_totals.values()
