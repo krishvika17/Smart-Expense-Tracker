@@ -9,15 +9,17 @@ The project was developed to strengthen concepts such as Python programming, fil
 
 ## Screenshots
 
-### Main Menu
+### Main Menu and Budget status
+<img width="854" height="439" alt="Screenshot 2026-06-24 171326" src="https://github.com/user-attachments/assets/35f967de-3d38-45dc-aee7-48aa9b51ec88" />
+
 
 ### Expense Records
-
-### Budget Status
 
 ### Expense Distribution
 
 ### Budget Alert
+
+### Sort Expenses
 
 ---
 
