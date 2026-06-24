@@ -96,6 +96,7 @@ SmartExpenseTracker/
     ├── expense_records.png
     ├── budget_status.png
     └── pie_chart.png
+    └── budget_alert.png
 ```
 
 ---
