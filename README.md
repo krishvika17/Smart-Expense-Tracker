@@ -9,17 +9,25 @@ The project was developed to strengthen concepts such as Python programming, fil
 
 ## Screenshots
 
-### Main Menu and Budget status
-<img width="854" height="439" alt="Screenshot 2026-06-24 171326" src="https://github.com/user-attachments/assets/35f967de-3d38-45dc-aee7-48aa9b51ec88" />
-
+### Main Menu 
+<img width="950" height="307" alt="Screenshot 2026-06-24 165818" src="https://github.com/user-attachments/assets/cf372bd2-38fb-42b6-914a-b148db5b317c" />
 
 ### Expense Records
+<img width="396" height="167" alt="Screenshot 2026-06-24 170925" src="https://github.com/user-attachments/assets/b1d1ff97-d21d-4034-aa12-fe8367287288" />
 
 ### Expense Distribution
+<img width="854" height="439" alt="Screenshot 2026-06-24 171326" src="https://github.com/user-attachments/assets/1447af11-d857-478c-8e09-e67c0f1ff1b6" />
+
+### Budget status
+<img width="322" height="161" alt="Screenshot 2026-06-24 171222" src="https://github.com/user-attachments/assets/4cbb74a1-be7b-49fb-8efc-f394a3fe35a1" />
 
 ### Budget Alert
+<img width="320" height="455" alt="Screenshot 2026-06-24 171645" src="https://github.com/user-attachments/assets/0d74e9a8-6730-46a8-b40b-db493c7fae0a" />
+
+<img width="316" height="254" alt="Screenshot 2026-06-24 171657" src="https://github.com/user-attachments/assets/d1540803-904f-4010-95b6-d250ffdf0850" />
 
 ### Sort Expenses
+<img width="304" height="310" alt="Screenshot 2026-06-24 171811" src="https://github.com/user-attachments/assets/17f447ab-327a-4d41-8077-eff67118c986" />
 
 ---
 
