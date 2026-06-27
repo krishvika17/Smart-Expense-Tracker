@@ -180,3 +180,6 @@ Through this project, the following concepts were explored:
 * Export expense reports to CSV
 
 ---
+## Author
+
+**Krishvika**
