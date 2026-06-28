@@ -1,4 +1,4 @@
-# Smart Expense Tracker with Budget Monitoring
+# Smart Expense Tracker
 
 ## Overview
 
