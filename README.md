@@ -78,11 +78,13 @@ SmartExpenseTracker/
 ├── README.md
 │
 └── screenshots/
-    ├── main_menu.png
+    ├── budger_updation.png
     ├── expense_records.png
     ├── budget_status.png
-    └── pie_chart.png
+    └── expense_distribution.png
+    └── budget_monitor.png
     └── budget_alert.png
+    └── sort_expenses.png
 ```
 
 ---
