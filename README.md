@@ -143,31 +143,7 @@ Through this project, the following concepts were explored:
 * Exception Handling
 * Data Visualization using Matplotlib
 * Budget Tracking Logic
-
----
-
-## Screenshots
-
-### Main Menu 
-[Main Menu](https://github.com/user-attachments/assets/cf372bd2-38fb-42b6-914a-b148db5b317c)
-
-### Expense Records
-[Expense Records](https://github.com/user-attachments/assets/b1d1ff97-d21d-4034-aa12-fe8367287288)
-
-### Expense Distribution
-[Expense Distribution](https://github.com/user-attachments/assets/1447af11-d857-478c-8e09-e67c0f1ff1b6)
-
-### Budget status
-[Budget status](https://github.com/user-attachments/assets/4cbb74a1-be7b-49fb-8efc-f394a3fe35a1)
-
-### Budget Alert
-[Budget Alert1](https://github.com/user-attachments/assets/0d74e9a8-6730-46a8-b40b-db493c7fae0a)
-
-[Budget Alert2](https://github.com/user-attachments/assets/d1540803-904f-4010-95b6-d250ffdf0850)
-
-### Sort Expenses
-[Sort Expenses](https://github.com/user-attachments/assets/17f447ab-327a-4d41-8077-eff67118c986)
-
+  
 ---
 
 ## Future Enhancements
